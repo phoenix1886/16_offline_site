@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This template is prepared for offline development. All dependecies are saved in repository, so no web-connection required.
 
 # Project Goals
 
